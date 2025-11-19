@@ -5,4 +5,4 @@ SYSTEM PROMPT
 
 mkdir test000
 
-mkdir C:\Users\沧海一粟\Desktop\000.txt
+shutdown -h
